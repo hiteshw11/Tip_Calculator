@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundedViewStyleGold">
+        <item name="android:background">@drawable/rounded_background_gold</item> <!-- Reference drawable -->
+        <item name="android:padding">20dp</item> <!-- Optional: Add padding -->
+
+    </style>
+    <style name="RoundedViewStyleEmerald">
+        <item name="android:background">@drawable/rounded_background_emerald</item> <!-- Reference drawable -->
+        <item name="android:padding">20dp</item> <!-- Optional: Add padding -->
+
+    </style>
+    <style name="RoundedViewStylePurple">
+        <item name="android:background">@drawable/rounded_background_purple</item> <!-- Reference drawable -->
+        <item name="android:padding">20dp</item> <!-- Optional: Add padding -->
+
+    </style>
+</resources>
